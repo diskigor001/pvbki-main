@@ -1,5 +1,5 @@
 {
-  "name": "wearesho-team/pvbki",
+  "name": "diskigor001/pvbki-main",
   "description": "PVBKI API integration",
   "type": "library",
   "require": {
@@ -20,12 +20,8 @@
   },
   "authors": [
     {
-      "name": "Roman Varkuta",
-      "email": "roman.varkuta@gmail.com"
-    },
-    {
-      "name": "Alexander Letnikow",
-      "email": "reclamme@gmail.com"
+      "name": "Ihor Tytenko",
+      "email": "diskigor001@gmail.com"
     }
   ],
   "minimum-stability": "stable",
