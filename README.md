@@ -4,7 +4,7 @@
 
 ## Installation
 ```bash
-composer require diskigor001/pvbki
+composer require diskigor001/pvbki-main
 ```
 
 ## Usage
