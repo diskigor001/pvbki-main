@@ -4,7 +4,7 @@
 
 ## Installation
 ```bash
-composer require wearesho-team/pvbki
+composer require diskigor001/pvbki
 ```
 
 ## Usage
